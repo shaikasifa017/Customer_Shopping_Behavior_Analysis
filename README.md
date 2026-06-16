@@ -1,9 +1,9 @@
 # Customer Shopping Behavior Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes customer shopping data to understand purchasing behavior and revenue trends. The dataset contains around 3,900 customer records. Python and Pandas were used for data cleaning and analysis, while MySQL was used to store the processed data. An interactive Power BI dashboard was created to visualize key business metrics and insights.
 
-## 🚀 Features
+## Features
 - Cleaned and processed customer shopping data.
 - Performed exploratory data analysis using Python and Pandas.
 - Stored processed data in MySQL.
@@ -18,14 +18,14 @@ This project analyzes customer shopping data to understand purchasing behavior a
 - MySQL
 - Power BI
 
-## 📊 Dashboard Insights
+## Dashboard Insights
 - Customer Segmentation
 - Purchase Frequency
 - Sales Performance
 - Revenue Analysis
 - Subscription Impact
 
-## 📂 Project Structure
+## Project Structure
 ```text
 Customer-Shopping-Behavior-Analysis/
 │
